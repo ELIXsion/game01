@@ -3,11 +3,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
-    background: url("https://cdn.jsdelivr.net/gh/ELIXsion/pictureck@master/pictureck/06f05ce5814601144cd51c625b83f0e0.7jcxbevwnio0.webp");no-repeat center center fixed;
-                /*兼容浏览器版本*/
-                -webkit-background-size: cover;
-                -o-background-size: cover;                
-                background-size: cover;
+    background: white;
 }
 
 body.dark {
